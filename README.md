@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on understanding the practical applications of the new LLMs such as ChatGPT.
+- 🌱 I’m currently learning [prompt engineering](https://medium.com/@tristwolff/10-amazing-resources-for-prompt-engineering-chatgpt-and-gpt-3-ad84dd26bfc7), [fine-tuning](https://beta.openai.com/docs/guides/fine-tuning) and [LangChain](https://langchain.readthedocs.io/en/latest/).
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **JamesSullivan/JamesSullivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
