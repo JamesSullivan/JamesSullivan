@@ -1,7 +1,7 @@
 ### Hi there
 
-- 🔭 I’m currently working on a TypeScript Puppeteer Web Crawler.
-- 🌱 I’m currently learning Large Language Models: Foundation Models from the Ground Up 
+- 🔭 I’m currently working on ...
+
 
 
 <!--
