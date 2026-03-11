@@ -1,6 +1,6 @@
 ### Hi there
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on an web app to make Canadian public company filings information data more easily analyzed.
 
 
 
